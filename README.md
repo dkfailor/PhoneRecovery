@@ -20,7 +20,7 @@ I was given this phone to fix for a relative.  They could not use certain apps a
 in their notifications. This happened after they installed a free Security software suite (of which I was immediately
 suspect).
 
-Here are some of the steps I took. In the cases where I either bypassed or removed security measures I won't document here 
+## Here are some of the steps I took. In the cases where I either bypassed or removed security measures I won't document here 
 how I did it for ethical reasons.
   1. I turned off my WiFi network before the person dropped off the phone at my house.  I did this because I was not sure if they
      ever accessed our network before (because I gave them the password when they were here).  I trust this person but many of our
