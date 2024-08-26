@@ -2,7 +2,7 @@
 Notes on my work with cell phone recovery and forensics.
 
 # Android Phones 
-(Please see the file in this repo that describes the important detailed steps required).
+(Please see the "ActualStepsAndroid" file in this repo that describes the important detailed steps required).
 
 ## LG Prepaid LML212VL Android phone
 My cell phone died and fortunately I had an identical one which was previously
@@ -16,7 +16,7 @@ in their notifications. This happened after they installed a free Security softw
 suspect).
 
 ## Here are some of the steps I took. 
-(Please see the file in this repo that describes the important detailed steps required).
+(Please see the "ActualStepsAndroid" file in this repo that describes the important detailed steps required).
   1. I isolated the phone from all networks.
   2. I gained permanent access to the phone.
   3. I researched the rogue app(s) and removed them.
